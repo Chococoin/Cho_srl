@@ -68,12 +68,14 @@ module.exports = {
      host: "127.0.0.1",     // Localhost (default: none)
      port: 8545,            // Standard Ethereum port (default: none)
      network_id: "*",       // Any network (default: none)
+     gas: 6500000,
+     gasPrice: 1000000000000,
     },
     polygon: {
       provider: () => new HDWalletProvider( MNEMONIC, `https://polygon-mainnet.infura.io/v3/${PROJECT_ID}` ),
       network_id: 137,
-      gas: 29500000,
-      gasPrice: 900000000000,
+      gas: 9000000,
+      gasPrice: 190000000000,
       confirmations: 2,
       skipDryRun: true,
     },

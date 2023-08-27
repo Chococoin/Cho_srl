@@ -29097,15 +29097,15 @@
     "version": "0.8.8+commit.dddeac2f.Emscripten.clang"
   },
   "networks": {
-    "1692888479207": {
+    "137": {
       "events": {},
       "links": {},
-      "address": "0xCfEB869F69431e42cdB54A4F4f105C19C080A601",
-      "transactionHash": "0xfd4071088576c4e5159ad5009aa69455862af21018553a8c61e525ed72a15f33"
+      "address": "0x1184b5eb06c5bd5c80420e45e7b8c03a50ecd725",
+      "transactionHash": "0x329ba4eb42d4bece68c66d75af2d92fb1c235a0ac5f9f5e5bcbfc0979f18eecc"
     }
   },
   "schemaVersion": "3.4.13",
-  "updatedAt": "2023-08-24T15:50:30.322Z",
+  "updatedAt": "2023-08-25T09:15:59.304Z",
   "networkType": "ethereum",
   "devdoc": {
     "custom:security-contact": "german.lugo@chocosfera.com",
